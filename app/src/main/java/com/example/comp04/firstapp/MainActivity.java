@@ -1,3 +1,4 @@
+
 package com.example.comp04.firstapp;
 
 import android.support.v7.app.AppCompatActivity;
@@ -11,5 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         //my first change on github
+        
+        //second change created through github 
     }
 }
